@@ -1,6 +1,6 @@
 #!/usr/bin/python
-from UCB import OccupyCal
-from Oakland import Port
+from UCB import occupyCal
+from Oakland import port
 
-for member in OccupyCal:
-    member.marchTo(Port)
+for member in occupy_cal:
+    member.march_to(port)
