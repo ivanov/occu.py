@@ -1,7 +1,7 @@
 This contains the code of the sign I used at the West Coast Port Shutdown in
 Oakland.
 
-The posted contained this code ::
+The poster contained this code ::
 
     #!/usr/bin/python
     from UCB import occupyCal
