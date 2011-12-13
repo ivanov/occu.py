@@ -18,3 +18,5 @@ The poster contained this code ::
 However, folks on  `Reddit`_ (rightfully) criticized it for not being PEP-8 compliant.
 
 .. _Reddit: http://www.reddit.com/r/programming/comments/nardl/occupy
+
+.. image:: http://pirsquared.org/images/occu.py.jpg
